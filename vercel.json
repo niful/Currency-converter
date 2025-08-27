@@ -2,7 +2,7 @@
     "routes":[
         {
             "src":"/",
-            "dest":"/Currency%20converter.html"
+            "dest":"/Currency converter.html"
         }
     ]
 }
